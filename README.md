@@ -18,7 +18,7 @@ a single webpage based off assets provided by Codefellows to include the image b
 
 ## submission PR
 
-+ ----https://github.com/arpatterson31/chocolate-pizza/pull/1-----
++ https://github.com/arpatterson31/chocolate-pizza/pull/3
 
 ## References
 
